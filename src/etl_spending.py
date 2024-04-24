@@ -137,4 +137,4 @@ def process(path: str):
 
 if __name__ == '__main__':
 
-    process('resources/data/Ano-2019')
+    process('resources/data/')
